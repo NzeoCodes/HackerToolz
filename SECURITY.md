@@ -25,4 +25,4 @@ There will be max 5 supported versions!
 
 ## Bye!
 
-Thanks forreading this!
+Thanks for reading this!
