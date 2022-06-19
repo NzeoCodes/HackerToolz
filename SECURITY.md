@@ -4,11 +4,8 @@
 
 This is a section for supported versions. You will see...
 
-_______________________________________
-   Version       |    Compatibility
-   1.0.0               Yes
-   1.0.x               Work in Progress
-   1.1                 Work in Progress
+1.0 - Still supported!
+1.1 and more - Unsupported.. i mean it didn't come out yet!
 
 ## Reporting a Bug
 
